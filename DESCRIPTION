@@ -1,0 +1,15 @@
+Package: plan372starter
+Title: PLAN 372 Starter Repository
+Version: 0.1
+Authors@R: 
+    person("Matt", "Bhagat-Conway", , "mwbc@unc.edu", role = c("aut", "cre"))
+Description: This is not a package, but we just use this file to declare
+    the dependencies of the site.
+URL: https://r-pkgs.org/
+Imports:
+    tidyverse,
+    lubridate,
+    here,
+    sf,
+    terra,
+    ggspatial
